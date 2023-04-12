@@ -1,2 +1,3 @@
-# community-workflow
-It's documentation for creating the community for helping poor people to get medications they need
+# Life Saver Community
+We are working on a workflow to help poor people to get the medications they need
+If you can help please contact icanhelp@samen.life
